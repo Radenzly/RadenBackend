@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RadenBackend
 - 👀 I’m interested in Coding Languange
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Laravel And PHP
 - 📫 How to reach me Just Learning
 - 😄 Pronouns: L.A.Z.Y
 - ⚡ Fun fact: Im Dumb
