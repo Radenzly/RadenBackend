@@ -8,9 +8,8 @@ I'm a junior high school student with a passion for learning to code.
 ## 🌱 Currently Learning
 
 - C++
-- Dart
-- JavaScript
-- CSS
+- Java
+- React
 
 ---
 
