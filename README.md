@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kevan Radinka Purnama (Radenzly)!
+# Hi, I'm Kevan Radinka Purnama (Radenzly)!
 
 Welcome to my GitHub profile!  
 I'm a junior high school student with a passion for learning to code.
