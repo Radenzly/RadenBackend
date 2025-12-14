@@ -9,7 +9,7 @@ I'm a junior high school student with a passion for learning to code.
 
 - C++
 - Java
-- React
+- Javascript
 
 ---
 
@@ -17,6 +17,7 @@ I'm a junior high school student with a passion for learning to code.
 
 - Exploring programming and building my skills.
 - Fun fact: I sometimes spend time looking blankly at a lamp. 💡
+- circle victim :3
 
 ---
 
