@@ -5,10 +5,9 @@ I'm a junior high school student with a passion for learning to code.
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - C++
-- Java
 - Javascript
 
 ---
@@ -16,17 +15,6 @@ I'm a junior high school student with a passion for learning to code.
 ## About Me
 
 - Exploring programming and building my skills.
-- Fun fact: I sometimes spend time looking blankly at a lamp. 💡
-- circle victim :3
+- Im still 14 years old
 
 ---
-
-## 📊 GitHub Stats & Activity
-
-![Radenzly's GitHub stats](https://github-readme-stats.vercel.app/api?username=Radenzly&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Radenzly&layout=compact&theme=radical)
-
----
-
-Thanks for visiting my profile!
